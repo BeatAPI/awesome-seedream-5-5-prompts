@@ -6,7 +6,7 @@ A source-attributed collection of Seedream 5.5 prompts and matching media, curat
 
 **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**20 cases** · More source-verified examples will be added.
+**24 cases** · More source-verified examples will be added.
 
 ## Featured examples
 
@@ -122,6 +122,8 @@ A die-cut sticker of a cheerful ginger cat curled up asleep inside a ramen bowl,
 - [Night Signal event poster](cases/dheepan-typography-8.md) — Dheepanratnam
 - [Ramen menu with bilingual text](cases/spicyapi-seedream55-01.md) — SpicyAPI Engineering
 - [Lantern Tea House poster](cases/seedream-studio-poster.md) — Seedream Studio
+- [From seed to salad infographic](cases/bytedance-official-infographic.md) — ByteDance Seed
+- [Shakespeare literary newspaper](cases/bytedance-official-newspaper.md) — ByteDance Seed
 
 ## Portraits
 
@@ -139,6 +141,7 @@ A die-cut sticker of a cheerful ginger cat curled up asleep inside a ramen bowl,
 
 - [Botanist in a Victorian glasshouse](cases/seedream-studio-hero.md) — Seedream Studio
 - [Japanese deli model comparison](cases/genel-japanese-deli-comparison.md) — genel_ai
+- [Sunlight, plaster and linen](cases/bytedance-official-street.md) — ByteDance Seed
 
 ## Product
 
@@ -155,8 +158,12 @@ A die-cut sticker of a cheerful ginger cat curled up asleep inside a ramen bowl,
 - [Café edit: awning stripes](cases/seedream-studio-edit-r2.md) — Seedream Studio
 - [Café edit: sleeping dachshund](cases/seedream-studio-edit-r3.md) — Seedream Studio
 
+## Illustration
+
+- [Blueberry character board](cases/bytedance-official-character.md) — ByteDance Seed
+
 ## Source and license
 
-Each case preserves the complete prompt published by its source, its corresponding media and any necessary reference inputs. Model attribution follows each creator’s description. The media files are the source-published versions; original generation exports are not independently confirmed.
+Each case preserves the complete prompt published by its source, its corresponding media and any necessary reference inputs. Model attribution follows each creator’s description. Media is preserved as source-published versions or labeled uncropped compressed copies; original generation exports are not independently confirmed.
 
 Source credits and permission notes are on each case page. BeatAPI-authored documentation uses [MIT](LICENSE); third-party material retains its own rights. The cover is illustrative artwork, not a Seedream result.

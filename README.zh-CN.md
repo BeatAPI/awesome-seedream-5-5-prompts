@@ -6,7 +6,7 @@
 
 [English](README.md) · [参与贡献](CONTRIBUTING.md)
 
-当前 20 条案例，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
+当前 24 条案例，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
 
 ## 浏览案例
 
@@ -18,6 +18,8 @@
 - [Night Signal 活动海报](cases/dheepan-typography-8.md) — Dheepanratnam
 - [双语拉面菜单](cases/spicyapi-seedream55-01.md) — SpicyAPI Engineering
 - [灯笼茶馆海报](cases/seedream-studio-poster.md) — Seedream Studio
+- [从种子到沙拉信息图](cases/bytedance-official-infographic.md) — ByteDance Seed
+- [莎士比亚文学报纸](cases/bytedance-official-newspaper.md) — ByteDance Seed
 
 ### 人物肖像
 
@@ -35,6 +37,7 @@
 
 - [维多利亚温室中的植物学家](cases/seedream-studio-hero.md) — Seedream Studio
 - [日式熟食店三模型对比](cases/genel-japanese-deli-comparison.md) — genel_ai
+- [阳光、灰泥与亚麻](cases/bytedance-official-street.md) — ByteDance Seed
 
 ### 产品摄影
 
@@ -50,6 +53,10 @@
 - [咖啡馆编辑：冰咖啡](cases/seedream-studio-edit-r1.md) — Seedream Studio
 - [咖啡馆编辑：遮阳篷条纹](cases/seedream-studio-edit-r2.md) — Seedream Studio
 - [咖啡馆编辑：熟睡的腊肠犬](cases/seedream-studio-edit-r3.md) — Seedream Studio
+
+### 插画
+
+- [蓝莓角色设计板](cases/bytedance-official-character.md) — ByteDance Seed
 
 ## 来源与许可
 
