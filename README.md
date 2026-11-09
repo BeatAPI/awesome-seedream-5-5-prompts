@@ -4,9 +4,11 @@
 
 A source-attributed collection of Seedream 5.5 prompts and matching media, curated by [BeatAPI](https://beatapi.io).
 
-**[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
+**[Browse the prompt gallery](https://beatapi.io/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/seedream-5-5-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**28 cases** · More source-verified examples will be added.
+**28 prompt cases + 17 image-only showcases** · More source-verified examples will be added.
+
+**Browse by use case:** [Typography](#typography) · [Portraits](#portraits) · [Transparent assets](#transparent-assets) · [Photography](#photography) · [Product](#product) · [Landscape](#landscape) · [Editing](#editing) · [Illustration](#illustration) · [Creator showcases and model comparisons](#creator-showcases-and-model-comparisons)
 
 ## Featured examples
 
@@ -23,7 +25,7 @@ Premium magazine cover design titled “THE FUTURE OF CREATIVE TOOLS”, with a 
 
 </details>
 
-**Creator:** [Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065) · [Case and reference inputs](cases/dheepan-typography-5.md)
+[Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065) · [Case and reference inputs](cases/dheepan-typography-5.md)
 
 ---
 
@@ -40,7 +42,7 @@ Overhead photo of a printed noodle shop menu on a dark wooden counter. Title 'KA
 
 </details>
 
-**Creator:** [SpicyAPI Engineering](https://spicyapi.ai/reviews/seedream-5-5) · [Case and reference inputs](cases/spicyapi-seedream55-01.md)
+[SpicyAPI Engineering](https://spicyapi.ai/reviews/seedream-5-5) · [Case and reference inputs](cases/spicyapi-seedream55-01.md)
 
 ---
 
@@ -58,7 +60,7 @@ Fine detail everywhere: condensation beads on the old glass panes, rivets and pe
 
 </details>
 
-**Creator:** [Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-hero.md)
+[Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-hero.md)
 
 ---
 
@@ -76,7 +78,7 @@ Landscape photography, natural colours, deep focus.
 
 </details>
 
-**Creator:** [Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-panorama.md)
+[Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-panorama.md)
 
 ---
 
@@ -93,7 +95,7 @@ Replace the cappuccino cup and saucer on the table with a tall clear glass of ic
 
 </details>
 
-**Creator:** [Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-edit-r1.md)
+[Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-edit-r1.md)
 
 ---
 
@@ -110,61 +112,218 @@ A die-cut sticker of a cheerful ginger cat curled up asleep inside a ramen bowl,
 
 </details>
 
-**Creator:** [Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-sticker.md)
+[Seedream Studio](https://seedreamv5.com/seedream-5.5) · [Case and reference inputs](cases/seedream-studio-sticker.md)
 
 ---
 
 ## Typography
 
-- [Magazine cover typography](cases/dheepan-typography-5.md) — Dheepanratnam
-- [Rainy storefront at night](cases/dheepan-typography-6.md) — Dheepanratnam
-- [Minimal skincare label](cases/dheepan-typography-7.md) — Dheepanratnam
-- [Night Signal event poster](cases/dheepan-typography-8.md) — Dheepanratnam
-- [Ramen menu with bilingual text](cases/spicyapi-seedream55-01.md) — SpicyAPI Engineering
-- [Lantern Tea House poster](cases/seedream-studio-poster.md) — Seedream Studio
-- [From seed to salad infographic](cases/bytedance-official-infographic.md) — ByteDance Seed
-- [Shakespeare literary newspaper](cases/bytedance-official-newspaper.md) — ByteDance Seed
+- [Magazine cover typography](cases/dheepan-typography-5.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Rainy storefront at night](cases/dheepan-typography-6.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Minimal skincare label](cases/dheepan-typography-7.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Night Signal event poster](cases/dheepan-typography-8.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Ramen menu with bilingual text](cases/spicyapi-seedream55-01.md) — [SpicyAPI Engineering](https://spicyapi.ai/reviews/seedream-5-5)
+- [Lantern Tea House poster](cases/seedream-studio-poster.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [From seed to salad infographic](cases/bytedance-official-infographic.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Shakespeare literary newspaper](cases/bytedance-official-newspaper.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 
 ## Portraits
 
-- [Noir fashion magazine cover](cases/spicyapi-seedream55-02.md) — SpicyAPI Engineering
-- [Couple dancing in a jazz bar](cases/spicyapi-seedream55-04.md) — SpicyAPI Engineering
-- [Backlit meadow portrait](cases/seedream-studio-portrait.md) — Seedream Studio
+- [Noir fashion magazine cover](cases/spicyapi-seedream55-02.md) — [SpicyAPI Engineering](https://spicyapi.ai/reviews/seedream-5-5)
+- [Couple dancing in a jazz bar](cases/spicyapi-seedream55-04.md) — [SpicyAPI Engineering](https://spicyapi.ai/reviews/seedream-5-5)
+- [Backlit meadow portrait](cases/seedream-studio-portrait.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
 
 ## Transparent assets
 
-- [Transparent teal fox mug](cases/spicyapi-seedream55-03.md) — SpicyAPI Engineering
-- [Ramen cat sticker](cases/seedream-studio-sticker.md) — Seedream Studio
-- [Weather icon grid](cases/seedream-studio-icon-set.md) — Seedream Studio
-- [Amber perfume asset](cases/dheepan-asset-9.md) — Dheepanratnam
-- [Streetwear model cutout](cases/dheepan-asset-10.md) — Dheepanratnam
-- [Frosted acrylic sheet](cases/dheepan-asset-11.md) — Dheepanratnam
-- [Chrome ribbon logo](cases/dheepan-asset-12.md) — Dheepanratnam
+- [Transparent teal fox mug](cases/spicyapi-seedream55-03.md) — [SpicyAPI Engineering](https://spicyapi.ai/reviews/seedream-5-5)
+- [Ramen cat sticker](cases/seedream-studio-sticker.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [Weather icon grid](cases/seedream-studio-icon-set.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [Amber perfume asset](cases/dheepan-asset-9.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Streetwear model cutout](cases/dheepan-asset-10.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Frosted acrylic sheet](cases/dheepan-asset-11.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
+- [Chrome ribbon logo](cases/dheepan-asset-12.md) — [@Dheepanratnam](https://x.com/Dheepanratnam/status/2119767938173387065)
 
 ## Photography
 
-- [Botanist in a Victorian glasshouse](cases/seedream-studio-hero.md) — Seedream Studio
-- [Japanese deli model comparison](cases/genel-japanese-deli-comparison.md) — genel_ai
-- [Sunlight, plaster and linen](cases/bytedance-official-street.md) — ByteDance Seed
+- [Botanist in a Victorian glasshouse](cases/seedream-studio-hero.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [Japanese deli model comparison](cases/genel-japanese-deli-comparison.md) — [@genel_ai](https://x.com/genel_ai/status/2119786434567827504)
+- [Sunlight, plaster and linen](cases/bytedance-official-street.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 
 ## Product
 
-- [Pour-over coffee product scene](cases/seedream-studio-product.md) — Seedream Studio
+- [Pour-over coffee product scene](cases/seedream-studio-product.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
 
 ## Landscape
 
-- [Glacier valley sunrise](cases/seedream-studio-panorama.md) — Seedream Studio
+- [Glacier valley sunrise](cases/seedream-studio-panorama.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
 
 ## Editing
 
-- [Sunny café base image](cases/seedream-studio-edit-base.md) — Seedream Studio
-- [Café edit: iced coffee](cases/seedream-studio-edit-r1.md) — Seedream Studio
-- [Café edit: awning stripes](cases/seedream-studio-edit-r2.md) — Seedream Studio
-- [Café edit: sleeping dachshund](cases/seedream-studio-edit-r3.md) — Seedream Studio
+- [Sunny café base image](cases/seedream-studio-edit-base.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [Café edit: iced coffee](cases/seedream-studio-edit-r1.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [Café edit: awning stripes](cases/seedream-studio-edit-r2.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
+- [Café edit: sleeping dachshund](cases/seedream-studio-edit-r3.md) — [Seedream Studio](https://seedreamv5.com/seedream-5.5)
 
 ## Illustration
 
-- [Blueberry character board](cases/bytedance-official-character.md) — ByteDance Seed
+- [Blueberry character board](cases/bytedance-official-character.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+
+## Creator showcases and model comparisons
+
+17 authorized showcases: 13 images and 4 multi-model comparisons. Complete prompts are unavailable; these have no case detail pages.
+
+### 1. Café portrait
+
+![Dheepanratnam · 1](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/1010f70657352b46623476389be390fb7c7344a930a6a3732c937a4df05b9229.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@Dheepanratnam](https://x.com/Dheepanratnam/status/2119762628658462746)
+
+
+### 2. Rainy street at dusk
+
+![Dheepanratnam · 2](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/7d0ae8508dc676ea2a607a52722bd40f5141dbc2a5b986e7287fe8c57420847c.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@Dheepanratnam](https://x.com/Dheepanratnam/status/2119762628658462746)
+
+
+### 3. Coffee in window light
+
+![Dheepanratnam · 3](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/ab16a5a806cbfb2ec8b814beed8f0c34246db1547ef7df5d24298c87fb488e1a.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@Dheepanratnam](https://x.com/Dheepanratnam/status/2119762628658462746)
+
+
+### 4. Breakfast still life
+
+![Dheepanratnam · 4](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/269e4e84dd8be9776c96ff46ccf9c2a845420c4d1286d95a464aa664206c42ca.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@Dheepanratnam](https://x.com/Dheepanratnam/status/2119762628658462746)
+
+
+### 5. Eye detail
+
+![Yuziyyaa · 5](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/f11aa515ffdedc6ca38a927793c003ef186060d398997a30b5e65f223f86a13f.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@Yuziyyaa](https://x.com/Yuziyyaa/status/2119799602580955179)
+
+
+### 6. Street-side dining portrait
+
+![DrSadek_ · 7](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/12205b1a1add80cf62ed59ec4c07e0b0e0d4e6596dfb9f1c3098b91fe84a2f86.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@DrSadek_](https://x.com/DrSadek_/status/2119788316153507886)
+
+
+### 7. Tea on a café table
+
+![DrSadek_ · 10](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/dd102a817446ab3d3a0ff08298b39df09c3ed0622fe530a70e6e03557bf294ec.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@DrSadek_](https://x.com/DrSadek_/status/2119788316153507886)
+
+
+### 8. Watchmaker at work
+
+![kevinchin35 · 11](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/64e37e499d058d3d2bf8706fad282924627a1c85f49bd8b6679c97a4f3e74820.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@kevinchin35](https://x.com/kevinchin35/status/2119747692427628777)
+
+
+### 9. Forest floor
+
+![kevinchin35 · 12](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/83f266c3266797af41bec7d404df131d3423be7eed0ae11a1a107f5afd575867.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@kevinchin35](https://x.com/kevinchin35/status/2119747692427628777)
+
+
+### 10. Raspberry sparkling water
+
+![kevinchin35 · 13](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/917b6584b09718d4246458978a2dde033457d17f1bd603c0e1cab01e014ae286.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@kevinchin35](https://x.com/kevinchin35/status/2119747692427628777)
+
+
+### 11. Rainy city anime poster
+
+![TqMiracle18260 · 14](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/8250102fbb2c89c3a4d6231978eac4a604e53eb868b57031561aa4c73011c539.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@TqMiracle18260](https://x.com/TqMiracle18260/status/2119765639825089008)
+
+
+### 12. AI conference poster
+
+![TqMiracle18260 · 15](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/aac403034d9bfb41b2f31d285662e54fb98c3abfddf7a78422bc52c2f9607002.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@TqMiracle18260](https://x.com/TqMiracle18260/status/2119765639825089008)
+
+
+### 13. Window-lit portrait
+
+![TqMiracle18260 · 16](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/06fe69036139fd931ddc92dcd5e2e695fe4a996454d6bc0a447183cc7667f45c.jpg)
+
+Seedream 5.5 · Source-published preview
+
+[@TqMiracle18260](https://x.com/TqMiracle18260/status/2119765639825089008)
+
+
+### 14. Tea house — three models
+
+![ozansihay · 18](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/109e087fea42533e62d4be873e1c064e9b4ef95ee6e42a84f84d51b674fb5828.jpg)
+
+Model order: Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1 · Source-published preview
+
+[@ozansihay](https://x.com/ozansihay/status/2119803963738357803)
+
+
+### 15. Golden field — three models
+
+![ozansihay · 19](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/fe3c841ec17b3d7d50f1fdfe457c8600a837214d9f563867b2877ef592d17fdd.jpg)
+
+Model order: Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1 · Source-published preview
+
+[@ozansihay](https://x.com/ozansihay/status/2119803963738357803)
+
+
+### 16. Tavern portrait — three models
+
+![ozansihay · 20](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/a05e5d729cf4d39bd4aafa8bf014861c9e568492e0129c7473753bb5bb5d9b61.jpg)
+
+Model order: Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1 · Source-published preview
+
+[@ozansihay](https://x.com/ozansihay/status/2119803963738357803)
+
+
+### 17. Night portrait — three models
+
+![ozansihay · 21](https://cdn.beatapi.io/prompt-gallery/seedream-5-5/df761e6ce868715fe0ed553c8e8258a5a25f874a33dd81e6f4dd816a7ea4c56d.jpg)
+
+Model order: Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1 · Source-published preview
+
+[@ozansihay](https://x.com/ozansihay/status/2119803963738357803)
+
 
 ## Source and license
 
