@@ -6,7 +6,7 @@
 
 [English](README.md) · [参与贡献](CONTRIBUTING.md)
 
-当前 19 条案例，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
+当前 20 条案例，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
 
 ## 浏览案例
 
@@ -34,6 +34,7 @@
 ### 摄影
 
 - [维多利亚温室中的植物学家](cases/seedream-studio-hero.md) — Seedream Studio
+- [日式熟食店三模型对比](cases/genel-japanese-deli-comparison.md) — genel_ai
 
 ### 产品摄影
 

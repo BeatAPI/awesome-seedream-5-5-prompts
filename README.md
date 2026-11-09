@@ -6,7 +6,7 @@ A source-attributed collection of Seedream 5.5 prompts and matching media, curat
 
 **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**19 cases** · More source-verified examples will be added.
+**20 cases** · More source-verified examples will be added.
 
 ## Featured examples
 
@@ -138,6 +138,7 @@ A die-cut sticker of a cheerful ginger cat curled up asleep inside a ramen bowl,
 ## Photography
 
 - [Botanist in a Victorian glasshouse](cases/seedream-studio-hero.md) — Seedream Studio
+- [Japanese deli model comparison](cases/genel-japanese-deli-comparison.md) — genel_ai
 
 ## Product
 
