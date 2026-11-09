@@ -6,7 +6,7 @@ A source-attributed collection of Seedream 5.5 prompts and matching media, curat
 
 **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**24 cases** · More source-verified examples will be added.
+**28 cases** · More source-verified examples will be added.
 
 ## Featured examples
 
@@ -136,6 +136,10 @@ A die-cut sticker of a cheerful ginger cat curled up asleep inside a ramen bowl,
 - [Transparent teal fox mug](cases/spicyapi-seedream55-03.md) — SpicyAPI Engineering
 - [Ramen cat sticker](cases/seedream-studio-sticker.md) — Seedream Studio
 - [Weather icon grid](cases/seedream-studio-icon-set.md) — Seedream Studio
+- [Amber perfume asset](cases/dheepan-asset-9.md) — Dheepanratnam
+- [Streetwear model cutout](cases/dheepan-asset-10.md) — Dheepanratnam
+- [Frosted acrylic sheet](cases/dheepan-asset-11.md) — Dheepanratnam
+- [Chrome ribbon logo](cases/dheepan-asset-12.md) — Dheepanratnam
 
 ## Photography
 

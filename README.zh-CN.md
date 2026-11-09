@@ -6,7 +6,7 @@
 
 [English](README.md) · [参与贡献](CONTRIBUTING.md)
 
-当前 24 条案例，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
+当前 28 条案例，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
 
 ## 浏览案例
 
@@ -32,6 +32,10 @@
 - [透明背景青色狐狸马克杯](cases/spicyapi-seedream55-03.md) — SpicyAPI Engineering
 - [拉面猫贴纸](cases/seedream-studio-sticker.md) — Seedream Studio
 - [天气图标九宫格](cases/seedream-studio-icon-set.md) — Seedream Studio
+- [琥珀香水瓶素材](cases/dheepan-asset-9.md) — Dheepanratnam
+- [街头服饰人物素材](cases/dheepan-asset-10.md) — Dheepanratnam
+- [磨砂亚克力片素材](cases/dheepan-asset-11.md) — Dheepanratnam
+- [镀铬丝带标志](cases/dheepan-asset-12.md) — Dheepanratnam
 
 ### 摄影
 
