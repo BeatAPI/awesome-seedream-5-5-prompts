@@ -6,7 +6,7 @@ A source-attributed collection of Seedream 5.5 prompts and matching media, curat
 
 **[Browse the prompt gallery](https://beatapi.io/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/seedream-5-5-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**28 prompt cases + 17 image-only showcases + 18 official source references** · More source-verified examples will be added.
+**28 prompt cases + 17 image-only showcases + 18 official source references + 27 community references** · More source-verified examples will be added.
 
 **Browse by use case:** [Typography](#typography) · [Portraits](#portraits) · [Transparent assets](#transparent-assets) · [Photography](#photography) · [Product](#product) · [Landscape](#landscape) · [Editing](#editing) · [Illustration](#illustration) · [Creator showcases and model comparisons](#creator-showcases-and-model-comparisons)
 
@@ -347,6 +347,39 @@ Model order: Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1 · Source-published 
 - [Windy street portrait](references/windy-street.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 - [Bistro diners](references/bistro-diners.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 - [Reflections after rain](references/rain-reflections.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+
+## More community examples — source index
+
+27 additional creator posts bring the collection to 90 entries (28 full prompt cases + 17 showcases + 18 official references + 27 community references). Albums, comparisons and editing sequences each count once. Author links open the original post. Media and available prompts remain at source; these are not counted as verified full prompt cases.
+
+- [Portrait and text across repeated edits](references/community-thirty-round-portrait.md) — [@xiaohu](https://x.com/xiaohu/status/2119774478788141417)
+- [Character sheet version comparison](references/community-character-sheet-comparison.md) — [@EEJ_OOXO](https://x.com/EEJ_OOXO/status/2119780326117716281)
+- [LLM diagram after 30 edits](references/community-llm-diagram-edits.md) — [@dongxi_nlp](https://x.com/dongxi_nlp/status/2120031669893939524)
+- [Skin texture study](references/community-skin-texture-test.md) — [@oden_ai_ai](https://x.com/oden_ai_ai/status/2120015332530393282)
+- [Dense text across model versions](references/community-dense-text-comparison.md) — [@94vanAI](https://x.com/94vanAI/status/2120007470898913320)
+- [Four-model portrait study](references/community-four-model-portrait.md) — [@94vanAI](https://x.com/94vanAI/status/2119938579078238370)
+- [Same-prompt texture comparison](references/community-same-prompt-texture.md) — [@PowerUpInvest](https://x.com/PowerUpInvest/status/2119971057650262386)
+- [Photoreal character conversion](references/community-photoreal-conversion.md) — [@nanyuan0412](https://x.com/nanyuan0412/status/2119949010698137603)
+- [Three-model output comparison](references/community-three-model-output.md) — [@Yuziyyaa](https://x.com/Yuziyyaa/status/2119991511433814093)
+- [Crayon turkey mixed-model short](references/community-crayon-turkey-assets.md) — [@larklee5](https://x.com/larklee5/status/2119985661939974450)
+- [Window-light film portrait](references/community-window-light-portrait.md) — [@nima2qisi2](https://x.com/nima2qisi2/status/2119983938383106432)
+- [Transparent character in two finishes](references/community-transparent-character.md) — [@KakiponzuX](https://x.com/KakiponzuX/status/2119979776651710778)
+- [Vintage cinematic stills](references/community-vintage-cinema.md) — [@ChrisGwinnLA](https://x.com/ChrisGwinnLA/status/2119979699464286506)
+- [Character recreation study](references/community-character-recreation.md) — [@haungpower](https://x.com/haungpower/status/2119852896544325859)
+- [Seedream and MiniMax H3 still-frame comparison](references/community-h3-frame-comparison.md) — [@JSFILMZ0412](https://x.com/JSFILMZ0412/status/2119889824274640957)
+- [Elf portrait material study](references/community-elf-material-study.md) — [@nanyuan0412](https://x.com/nanyuan0412/status/2119879195115332042)
+- [Winter portrait comparison](references/community-winter-portrait-comparison.md) — [@0kncn](https://x.com/0kncn/status/2119878902344823069)
+- [Glass jellyfish lamp](references/community-glass-jellyfish-lamp.md) — [@ahmetmertugrul](https://x.com/ahmetmertugrul/status/2119920477535719739)
+- [Deep-sea field-guide infographic](references/community-deep-sea-field-guide.md) — [@ahmetmertugrul](https://x.com/ahmetmertugrul/status/2119915956365369596)
+- [Street across six scene edits](references/community-street-weather-edits.md) — [@Sjonkerr](https://x.com/Sjonkerr/status/2119904922703438173)
+- [Photoreal image set](references/community-photoreal-image-set.md) — [@uixmax](https://x.com/uixmax/status/2119894564073054374)
+- [Portrait model-order comparison](references/community-three-model-portrait-order.md) — [@foretyyt](https://x.com/foretyyt/status/2119894502588452933)
+- [Shared brief with GPT Image 2.6](references/community-gpt26-same-brief.md) — [@arito_si](https://x.com/arito_si/status/2119890337699364975)
+- [Character editing in Morphic](references/community-morphic-character-edits.md) — [@opener_ai](https://x.com/opener_ai/status/2119942433412931907)
+- [Nature Unseen concept series](references/community-nature-unseen.md) — [@AI_Timemachine](https://x.com/AI_Timemachine/status/2119930302508286194)
+- [Fifteen-round portrait editing comparison](references/community-fifteen-round-comparison.md) — [@VORTEX_Promos](https://x.com/VORTEX_Promos/status/2119928374235701452)
+- [Fisherman at blue hour](references/community-blue-hour-fisherman.md) — [@ahmetmertugrul](https://x.com/ahmetmertugrul/status/2119922071916757233)
+
 
 ## Source and license
 

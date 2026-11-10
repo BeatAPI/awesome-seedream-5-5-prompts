@@ -6,7 +6,7 @@
 
 **[浏览在线画廊](https://beatapi.io/zh/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/zh/seedream-5-5-api)** · [English](README.md) · [参与贡献](CONTRIBUTING.md)
 
-当前 28 条完整提示词案例，另含 17 项作品与对比展示，后续继续扩充。模型信息按创作者说明标注；素材为来源网站或原帖提供的版本。
+当前共 90 个条目：28 条完整提示词案例、17 项作品与对比展示、18 个官方来源案例、27 组新增社区案例。模型信息按创作者说明标注；新增社区案例直接链接原帖，不计入完整提示词数量。
 
 **按用途浏览:** [文字排版](#文字排版) · [人物肖像](#人物肖像) · [透明素材](#透明素材) · [摄影](#摄影) · [产品摄影](#产品摄影) · [风景](#风景) · [图片编辑](#图片编辑) · [插画](#插画)
 
@@ -346,6 +346,39 @@ Seedream 5.5 · 来源预览图
 - [风中街拍](references/windy-street.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 - [小餐馆用餐者](references/bistro-diners.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 - [雨后倒影](references/rain-reflections.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+
+## 新增社区案例 — 来源索引
+
+新增 27 组独立原帖，共 90 个条目（28 条完整提示词 + 17 组展示 + 18 个官方案例 + 27 组社区案例）。相册、对比和连续编辑均整组计一次。作者姓名直接链接到原帖。新案例的媒体与已公开提示词在来源处查看，不计入完整提示词数量。
+
+- [人像与文字连续编辑](references/community-thirty-round-portrait.md) — [@xiaohu](https://x.com/xiaohu/status/2119774478788141417)
+- [角色设定表版本对比](references/community-character-sheet-comparison.md) — [@EEJ_OOXO](https://x.com/EEJ_OOXO/status/2119780326117716281)
+- [连续修改 30 轮的 LLM 原理图](references/community-llm-diagram-edits.md) — [@dongxi_nlp](https://x.com/dongxi_nlp/status/2120031669893939524)
+- [肤质表现测试](references/community-skin-texture-test.md) — [@oden_ai_ai](https://x.com/oden_ai_ai/status/2120015332530393282)
+- [跨版本密集文字对比](references/community-dense-text-comparison.md) — [@94vanAI](https://x.com/94vanAI/status/2120007470898913320)
+- [四模型人像测试](references/community-four-model-portrait.md) — [@94vanAI](https://x.com/94vanAI/status/2119938579078238370)
+- [同提示词纹理对比](references/community-same-prompt-texture.md) — [@PowerUpInvest](https://x.com/PowerUpInvest/status/2119971057650262386)
+- [角色真人化测试](references/community-photoreal-conversion.md) — [@nanyuan0412](https://x.com/nanyuan0412/status/2119949010698137603)
+- [三模型出图对比](references/community-three-model-output.md) — [@Yuziyyaa](https://x.com/Yuziyyaa/status/2119991511433814093)
+- [蜡笔火鸡混合模型短片](references/community-crayon-turkey-assets.md) — [@larklee5](https://x.com/larklee5/status/2119985661939974450)
+- [窗光胶片感人像](references/community-window-light-portrait.md) — [@nima2qisi2](https://x.com/nima2qisi2/status/2119983938383106432)
+- [双风格透明角色素材](references/community-transparent-character.md) — [@KakiponzuX](https://x.com/KakiponzuX/status/2119979776651710778)
+- [复古电影静帧](references/community-vintage-cinema.md) — [@ChrisGwinnLA](https://x.com/ChrisGwinnLA/status/2119979699464286506)
+- [角色重创作测试](references/community-character-recreation.md) — [@haungpower](https://x.com/haungpower/status/2119852896544325859)
+- [Seedream 与 MiniMax H3 静帧对比](references/community-h3-frame-comparison.md) — [@JSFILMZ0412](https://x.com/JSFILMZ0412/status/2119889824274640957)
+- [精灵人像材质测试](references/community-elf-material-study.md) — [@nanyuan0412](https://x.com/nanyuan0412/status/2119879195115332042)
+- [冬季人像对比](references/community-winter-portrait-comparison.md) — [@0kncn](https://x.com/0kncn/status/2119878902344823069)
+- [玻璃水母灯](references/community-glass-jellyfish-lamp.md) — [@ahmetmertugrul](https://x.com/ahmetmertugrul/status/2119920477535719739)
+- [深海生物图鉴信息图](references/community-deep-sea-field-guide.md) — [@ahmetmertugrul](https://x.com/ahmetmertugrul/status/2119915956365369596)
+- [六轮街景变化](references/community-street-weather-edits.md) — [@Sjonkerr](https://x.com/Sjonkerr/status/2119904922703438173)
+- [写实图像组](references/community-photoreal-image-set.md) — [@uixmax](https://x.com/uixmax/status/2119894564073054374)
+- [人像模型顺序对照](references/community-three-model-portrait-order.md) — [@foretyyt](https://x.com/foretyyt/status/2119894502588452933)
+- [与 GPT Image 2.6 同要求对比](references/community-gpt26-same-brief.md) — [@arito_si](https://x.com/arito_si/status/2119890337699364975)
+- [Morphic 中的角色编辑](references/community-morphic-character-edits.md) — [@opener_ai](https://x.com/opener_ai/status/2119942433412931907)
+- [Nature Unseen 概念系列](references/community-nature-unseen.md) — [@AI_Timemachine](https://x.com/AI_Timemachine/status/2119930302508286194)
+- [十五轮人像编辑对比](references/community-fifteen-round-comparison.md) — [@VORTEX_Promos](https://x.com/VORTEX_Promos/status/2119928374235701452)
+- [蓝调时刻的渔夫](references/community-blue-hour-fisherman.md) — [@ahmetmertugrul](https://x.com/ahmetmertugrul/status/2119922071916757233)
+
 
 ## 来源与许可
 
