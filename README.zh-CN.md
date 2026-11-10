@@ -324,6 +324,29 @@ Seedream 5.5 · 来源预览图
 
 
 
+## 官方案例补充（来源索引）
+
+新增 18 个官方案例索引：5 个摄影示例、6 个透明素材示例、7 组多轮编辑演示。与现有 28 条完整提示词案例及 17 项展示分开统计。透明素材的参考输入未全部核齐，多轮演示不提供逐轮完整提示词；点击来源查看，不镜像新增素材。
+
+- [室内家具编辑](references/room-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [人像造型编辑](references/portrait-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [贪吃蛇界面编辑](references/snake-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [静物构图编辑](references/still-life-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [妆容配饰编辑](references/beauty-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [水墨画编辑](references/ink-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [表盘数据编辑](references/watch-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [奔跑角色分层](references/running-layers.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [火烈鸟提取](references/flamingo-cutout.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [透明贴纸套组](references/sticker-sets.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [毛线文字](references/yarn-lettering.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [毛绒角色套组](references/plush-characters.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [雪鸮局部特写](references/owl-details.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [酒吧白猫](references/bar-cat.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [父亲与熟睡的婴儿](references/father-baby.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [风中街拍](references/windy-street.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [小餐馆用餐者](references/bistro-diners.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [雨后倒影](references/rain-reflections.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+
 ## 来源与许可
 
 每条案例提供原文、创作者、素材和必要的参考图。项目所有者已确认素材使用授权；第三方素材不因此自动获得通用许可。仓库原创文档采用 [MIT 许可](LICENSE)。封面是示意插画，不作为 Seedream 成品。

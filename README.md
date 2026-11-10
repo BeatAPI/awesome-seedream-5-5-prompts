@@ -6,7 +6,7 @@ A source-attributed collection of Seedream 5.5 prompts and matching media, curat
 
 **[Browse the prompt gallery](https://beatapi.io/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/seedream-5-5-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**28 prompt cases + 17 image-only showcases** · More source-verified examples will be added.
+**28 prompt cases + 17 image-only showcases + 18 official source references** · More source-verified examples will be added.
 
 **Browse by use case:** [Typography](#typography) · [Portraits](#portraits) · [Transparent assets](#transparent-assets) · [Photography](#photography) · [Product](#product) · [Landscape](#landscape) · [Editing](#editing) · [Illustration](#illustration) · [Creator showcases and model comparisons](#creator-showcases-and-model-comparisons)
 
@@ -324,6 +324,29 @@ Model order: Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1 · Source-published 
 
 [@ozansihay](https://x.com/ozansihay/status/2119803963738357803)
 
+
+## More official examples — source index
+
+18 additional official references: 5 photography examples, 6 transparent-asset examples and 7 multi-turn editing demonstrations. Counted separately from the 28 full prompt cases and 17 showcases. Reference inputs for transparent assets are not fully established; editing demonstrations do not supply complete per-turn prompts. Follow the original source; new media is not mirrored.
+
+- [Room furnishing edits](references/room-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Portrait styling edits](references/portrait-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Snake game interface edits](references/snake-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Still-life composition edits](references/still-life-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Makeup and accessory edits](references/beauty-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Ink painting edits](references/ink-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Watch face data edits](references/watch-edits.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Running character layers](references/running-layers.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Flamingo extraction](references/flamingo-cutout.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Transparent sticker sets](references/sticker-sets.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Yarn lettering](references/yarn-lettering.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Plush character set](references/plush-characters.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Owl detail cutouts](references/owl-details.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [White cat at a bar](references/bar-cat.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Father and sleeping baby](references/father-baby.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Windy street portrait](references/windy-street.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Bistro diners](references/bistro-diners.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
+- [Reflections after rain](references/rain-reflections.md) — [ByteDance Seed](https://seed.bytedance.com/en/seedream5_5)
 
 ## Source and license
 
