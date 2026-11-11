@@ -9,8 +9,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/91b9eb6326c7bf14f868da3ef5ada20617bf6e201f890dac34997324322ca424.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/45f44d46db13fb93fa191d7fb7563a496016df9ae039f39f65f2d6e6a00182a8.jpg",
+        "width": 720,
+        "height": 963
+      }
+    ]
   },
   {
     "id": "portrait-edits",
@@ -22,8 +31,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/3a8cd39557d430edae4e76aeb3307ee40127c7e15b63fbf63b227f12152e9c6e.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/55dc1dd30740345851651fe77502d5e7ced72e61a5f5d2bc856656137acd3aba.jpg",
+        "width": 720,
+        "height": 960
+      }
+    ]
   },
   {
     "id": "snake-edits",
@@ -35,8 +53,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/ab13c7228c233a66a10681485d91d711e9a9b1006b981ed960ae55dc6fa3e10a.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/d450fa132890075394741e0633e954a8fb203c3f0339bfb0dfa7ccaaa07f5081.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "still-life-edits",
@@ -48,8 +75,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/21315b985cc543a119118e355c1ecdc5d5528f8a4f9cac7821ff2b2f5b1604c3.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/5d251f74b6607ef1959301ad9ae52e9712aad145db9d43979407ce4eca327be0.jpg",
+        "width": 480,
+        "height": 764
+      }
+    ]
   },
   {
     "id": "beauty-edits",
@@ -61,8 +97,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/964c43331efbea72995cd15d9df0eddce3a3583d8a810fd74fc619f2ad4f0e1b.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/14fc19c7c83ab7ea69e16312e1ea9383f97dd0a7f771a1919969c13950056b7c.jpg",
+        "width": 565,
+        "height": 853
+      }
+    ]
   },
   {
     "id": "ink-edits",
@@ -74,8 +119,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/4b4bea165b85aada6150e4baf3d98ce99427557191b64316eb733ab3cbc3056d.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/129f02ef115fcde52807f46604ed7eefc0c8c28ed4cffe31139252de5aa2cded.jpg",
+        "width": 720,
+        "height": 1280
+      }
+    ]
   },
   {
     "id": "watch-edits",
@@ -87,8 +141,17 @@
     "category": "editing",
     "promptStatus": "Multi-turn summary only",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/308955793e1d061c4d1fd1ca1a176f1fb6102216af64a7296f7c96598195fef0.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/30aac242ea1822cd2528991af1191f7e979688508c41cefd8491684a75cce48a.jpg",
+        "width": 720,
+        "height": 480
+      }
+    ]
   },
   {
     "id": "running-layers",
@@ -100,8 +163,17 @@
     "category": "transparent",
     "promptStatus": "Instruction published at source; required reference assets not independently established",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/43f262cc22d96839d6af7d5b7ddd9efda1a86458a1ebb59e87a9f7649ca972f8.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/1bef6059daa4a2fc5422aadd3af5bb33c74d756cc575f63e781eae52bd39b3e5.jpg",
+        "width": 475,
+        "height": 719
+      }
+    ]
   },
   {
     "id": "flamingo-cutout",
@@ -113,8 +185,17 @@
     "category": "transparent",
     "promptStatus": "Instruction published at source; required reference assets not independently established",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/d830f0d811204baf0f5c19b26547eadbdfdb78d961b67b8e0c57df67175587b0.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/f0d7f73fac90aa7349df25a149f8b127604992c61728b9b03c0a0b8c0fd5e365.jpg",
+        "width": 476,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "sticker-sets",
@@ -126,8 +207,17 @@
     "category": "transparent",
     "promptStatus": "Instruction published at source; required reference assets not independently established",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/4d8ac8abf00a80382ae21901d4fa19dc09ac979047abc7bd6188ccb8568aa97a.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/3d0f2b46d334740e01ae126c0778ab4a24f4360187e893751f93c7d8c9d115aa.jpg",
+        "width": 476,
+        "height": 856
+      }
+    ]
   },
   {
     "id": "yarn-lettering",
@@ -139,8 +229,17 @@
     "category": "transparent",
     "promptStatus": "Instruction published at source; required reference assets not independently established",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/e2eeec273aeedd810bbf8b492ed61f91790401e2e10d8981599640483ee4c351.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/ee6c5b7bc2700a56a3b4adbb2c63641050ccb2717fd6e262b921c7cbcd240bee.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "plush-characters",
@@ -152,8 +251,17 @@
     "category": "transparent",
     "promptStatus": "Instruction published at source; required reference assets not independently established",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/72c55ae2043f69d8b633673d95b39f31c632f42f7cf559232516c9f83a23c8ea.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/cd9cc321b8483e610c2f47cdd70486e1d7df7f91c26b56c0295224ab86f81302.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "owl-details",
@@ -165,8 +273,17 @@
     "category": "transparent",
     "promptStatus": "Instruction published at source; required reference assets not independently established",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/3f6d20b74622f1d9be8d470144cfedaa786ea04b741505f10a5d27ac9bc09017.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/4928429e50dccd9bedcc5145bde89aaf443f60566386a40eaa22ffd269933cf1.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "bar-cat",
@@ -178,8 +295,17 @@
     "category": "photography",
     "promptStatus": "Prompt published at source",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/fb65aeb55269708ff60f9618802dfa81dadf5c0fe5759b26b206782716283289.webp",
+        "poster": null,
+        "width": 2512,
+        "height": 1664
+      }
+    ]
   },
   {
     "id": "father-baby",
@@ -191,8 +317,17 @@
     "category": "photography",
     "promptStatus": "Prompt published at source",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/12f83c5de2d50b8102e320a6f3cb4b7bdf9d3fd25a8d106095cde7edf0076658.webp",
+        "poster": null,
+        "width": 1920,
+        "height": 1080
+      }
+    ]
   },
   {
     "id": "windy-street",
@@ -204,8 +339,17 @@
     "category": "photography",
     "promptStatus": "Prompt published at source",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/bdf875167a9a88b46d59093f7a117a648247c4bafab873a6b58200822e6a5816.webp",
+        "poster": null,
+        "width": 2720,
+        "height": 1536
+      }
+    ]
   },
   {
     "id": "bistro-diners",
@@ -217,8 +361,17 @@
     "category": "photography",
     "promptStatus": "Prompt published at source",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/f2541009be8589019716244913a80d8ba67b9816c0f0fee9e7fb73876dd7632f.webp",
+        "poster": null,
+        "width": 2720,
+        "height": 1536
+      }
+    ]
   },
   {
     "id": "rain-reflections",
@@ -230,7 +383,16 @@
     "category": "photography",
     "promptStatus": "Prompt published at source",
     "verifiedOn": "2026-11-10",
-    "publicationMode": "source-link-only",
-    "mediaRights": "Not established for redistribution; source links only"
+    "publicationMode": "beatapi-hosted-media",
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/0659ffba7a71425a757097c730d9b88b9068591501315fcd0c9b53982e7990b4.webp",
+        "poster": null,
+        "width": 1776,
+        "height": 2368
+      }
+    ]
   }
 ]

@@ -1,5 +1,13 @@
 # Four-model portrait study
 
+<img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/de8595ceb38b3c3cf6351bfcf7aef53a6f2bdadcdfd2262b963881d726a6311c.webp" alt="Four-model portrait study" width="700" />
+
+<img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/a478bc74962007f39092025eb571d7420df9640a48d594bf709b5c966fa3837c.webp" alt="Four-model portrait study" width="700" />
+
+<img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/a47c345f4a3db9eba2a060d493356c8ff108615b8ccc6b03e9931cadd2d61195.webp" alt="Four-model portrait study" width="700" />
+
+<img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/9c704325bcdaee22b91c0220f652f4d422d767cac23ebfa651178d9545dbd523.webp" alt="Four-model portrait study" width="700" />
+
 The creator identifies image one as Seedream, followed by ChatGPT, Gemini and Grok, and discusses limitations as well as strengths.
 
 四模型人像测试：作者注明第一张为 Seedream，其后为 ChatGPT、Gemini、Grok，同时讨论优点与局限。
@@ -10,5 +18,5 @@ The creator identifies image one as Seedream, followed by ChatGPT, Gemini and Gr
 - Published: 2026-11-09T23:41:58+00:00
 - Source checked: 2026-11-10
 - Available instructions remain at source; not counted as a verified full prompt case.
-- Third-party media remains at source; redistribution rights not established.
+
 - Counting unit: one original post/album, including all comparison panels or editing rounds.

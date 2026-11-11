@@ -18,9 +18,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/fdbbca72b5d9021f342926b67d8a5407c14bd8ee4cc25f7cf94daf93669280ba.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/f365fc15d7533a8a07593f6a1640544919c662376709c30ef05287e2b53458d4.jpg",
+        "width": 816,
+        "height": 1088
+      }
+    ]
   },
   {
     "id": "character-sheet-comparison",
@@ -42,9 +51,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/a5f2f73f2646823ed17dc6b2ffbfa99bb3ee98dc39fb2dc958b5ff04973d2f55.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/cc06169b4311a64c4b06b0c94f17a579b6f73c0e4a943648defb109a1bd938a2.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      }
+    ]
   },
   {
     "id": "llm-diagram-edits",
@@ -65,9 +90,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/dd0c36129e1d42c9309ddffead9620a10ad3ab7b8027fb01f4bc21e2ab25ad95.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 965
+      }
+    ]
   },
   {
     "id": "skin-texture-test",
@@ -88,9 +122,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/e39d4f51cf463c2bcefacd1fc9640528141bbf50d7bd88412fe5a48d71d9e11f.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 898
+      }
+    ]
   },
   {
     "id": "dense-text-comparison",
@@ -112,9 +155,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/67f41afba749bc12b1df4e9e9b1c1d7e64c8f41897a5bd06f9ac4b29234e6afa.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/ffa56d8cef042ad08b934ff6883eda58e375bb8bce48226a9b380647f17026e8.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "four-model-portrait",
@@ -138,9 +197,39 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/de8595ceb38b3c3cf6351bfcf7aef53a6f2bdadcdfd2262b963881d726a6311c.webp",
+        "poster": null,
+        "width": 675,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/a478bc74962007f39092025eb571d7420df9640a48d594bf709b5c966fa3837c.webp",
+        "poster": null,
+        "width": 675,
+        "height": 1199
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/a47c345f4a3db9eba2a060d493356c8ff108615b8ccc6b03e9931cadd2d61195.webp",
+        "poster": null,
+        "width": 670,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/9c704325bcdaee22b91c0220f652f4d422d767cac23ebfa651178d9545dbd523.webp",
+        "poster": null,
+        "width": 675,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "same-prompt-texture",
@@ -162,9 +251,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/330084561a932dba35459a977703bacc76e5bbf9c4c73e5687f3cb7856bafd4e.webp",
+        "poster": null,
+        "width": 900,
+        "height": 506
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/3f03cdd7d3838377945fe7b6f174d39379b7ada857d8a9445f3fe6d9f4194775.webp",
+        "poster": null,
+        "width": 960,
+        "height": 540
+      }
+    ]
   },
   {
     "id": "photoreal-conversion",
@@ -186,9 +291,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/8f2d105f4413e3dec41961891d53a6e63263d0e29d95907a798063d1a4a35cf2.webp",
+        "poster": null,
+        "width": 827,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/ebacd213ecc17e012c110d9bb0383351a6355b4c1148402ee3c2121c97700399.webp",
+        "poster": null,
+        "width": 800,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "three-model-output",
@@ -211,9 +332,32 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/f86c0c73b01d380490fba4a3f3fbf38d99baf43d2514120753846945ae9f9e2c.webp",
+        "poster": null,
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/e2cb6cacb2cfff42356fd48261cef1e21ea84775733ec2da009d38ee6a92742a.webp",
+        "poster": null,
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/679a5b270d6782f483a4bba0ee917d00d72cab30f106ecea4d47762afcae0eeb.webp",
+        "poster": null,
+        "width": 900,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "crayon-turkey-assets",
@@ -235,9 +379,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/6f715e7f1d37f7331a8299003891e2e13e66ed4bf65c8f3b7b18a9e51b3c8cae.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/d2cdaade63a1d6c82f301e6ca8ba43f4b1f382bd0b0f7533b25858ec19037369.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/dbb45641914cc41bfaeaa1ef49d1515b7c1bd379b30f9020e33cbb435a40bfcc.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      }
+    ]
   },
   {
     "id": "window-light-portrait",
@@ -260,9 +420,32 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/5fc4287adefb7fd430ba85181c6af318806dbca1be3294d6cd520a2ac28ee4b0.webp",
+        "poster": null,
+        "width": 675,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/126a0dd786db44c92b63c8e88b69e3f7877e399b2c92e30fbe98da0d609114ad.webp",
+        "poster": null,
+        "width": 739,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/d38a0c900bad6edcff1f6e0e773624ecd14387623c062003bd7b8ee490ce0f91.webp",
+        "poster": null,
+        "width": 739,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "transparent-character",
@@ -283,9 +466,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/73eef91a4c61c2ee1eb68d11b40938d2745095c3cb3e5b04752d0ab3424a3fab.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 934
+      }
+    ]
   },
   {
     "id": "vintage-cinema",
@@ -309,9 +501,39 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/f9f38c123757fc27be937965bef48ea77ee0033afb21e7a3dad421846fd0cb9b.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/2050facce74757fafe7f2057131c45d8d40ec4ac94fb777c4d3d085f487d92cd.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/c03a234311a180d750c16ba62c4bfa88b76bc5f7c734c596d4c2335c3a04edc5.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/3fbc5ec1f654d98172ae576af07ef3b40d87a0556035e65bca947729707ed562.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      }
+    ]
   },
   {
     "id": "character-recreation",
@@ -333,9 +555,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/7ed81613be3ad5bb542ef4a7e4f5d6b4712d7a362b743a382a409c8ac1fc4c5f.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 674
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/240877886f7bbf966e60850bb207b2845750c11ea329c573fced5ef2bc3beeea.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 684
+      }
+    ]
   },
   {
     "id": "h3-frame-comparison",
@@ -357,9 +595,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/22df55228c81a5e7a0a170c24b334965604d3a9d9e574e25107793da0920efcd.webp",
+        "poster": null,
+        "width": 1199,
+        "height": 514
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/399bca7808a2f1921909f204e3bc4ba1845c7e4107b27cd4d437c44c6240736a.webp",
+        "poster": null,
+        "width": 1199,
+        "height": 514
+      }
+    ]
   },
   {
     "id": "elf-material-study",
@@ -380,9 +634,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/74fe3de94dae4cb087e064168fb70613eaf7cc835f8abbfbddd297100b817b60.webp",
+        "poster": null,
+        "width": 675,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "winter-portrait-comparison",
@@ -405,9 +668,32 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/30a4708f56bafca573ece5c8cb8aad2b1e0274e54b07a6ea3bacff770d6bb722.webp",
+        "poster": null,
+        "width": 960,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/4935f061198c43083baf49e209a25b9a654209d2926beebcae45d60832a7975a.webp",
+        "poster": null,
+        "width": 898,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/fbc0e41d4afaae48d81e5be87708d98e78e51a81a5ab63fb5b51116315025a82.webp",
+        "poster": null,
+        "width": 896,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "glass-jellyfish-lamp",
@@ -428,9 +714,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/6b240ab8a770f0a935a4779af0b582622ec6e6c305201414dfdb1c286034a849.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      }
+    ]
   },
   {
     "id": "deep-sea-field-guide",
@@ -451,9 +746,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/2250100633d1cd221c23889b6e607abef93518fc275867188bd62253c6fd05f3.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      }
+    ]
   },
   {
     "id": "street-weather-edits",
@@ -474,9 +778,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/5a45bf64d3670f4a5f8f080d977417f0d10e443e55c410c1b6f0e6726834cff5.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/6a4ef12b45d0fe23c09e3eca7f432fded2f00192b323853ac4bc71aed0c72db4.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "photoreal-image-set",
@@ -500,9 +813,39 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/31875ab2f5b5fce7e6a6350ae0112ec230b543aae90b38890cd5e37790fbad83.webp",
+        "poster": null,
+        "width": 905,
+        "height": 1199
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/9fdc74b3251828de3398dcbf27d32a59ee51f7004951ed7b95811c845a46ab00.webp",
+        "poster": null,
+        "width": 905,
+        "height": 1199
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/dddc8e148e73d3fab8f02d2105677c735cd2df011d5da8ef39413fa2bff05fdd.webp",
+        "poster": null,
+        "width": 905,
+        "height": 1199
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/d2af250107ebffed92a0d30bba0d76352f4c006dc10e0aca683739da707e31d9.webp",
+        "poster": null,
+        "width": 905,
+        "height": 1199
+      }
+    ]
   },
   {
     "id": "three-model-portrait-order",
@@ -525,9 +868,32 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/40b6335178a393efd6f33525f699f8160707fabf12b3e7001da178a5f30b15c5.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/8247329a02c6a71d13ff711fa898d2df098852a823257324ade2e7ba1a222b49.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/752adfd4da448c1837a80c9dec53c8bd23f041ae588b3cf670e736b2386fd45a.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 670
+      }
+    ]
   },
   {
     "id": "gpt26-same-brief",
@@ -549,9 +915,25 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/7e7c87b7947363c5d228ea4e8c6526c0de3f3c72823a4a5e860dc969f2938001.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/cc76dbfb00ef1d1f237b1b0fa3a1e987a88410c0a9bc68d3e1aa3b7895d559eb.webp",
+        "poster": null,
+        "width": 1199,
+        "height": 675
+      }
+    ]
   },
   {
     "id": "morphic-character-edits",
@@ -572,9 +954,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/e43b11810afc535cb2711fd58b823b533b8891d5c5af7045163921790beb8cfc.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/523a92d0424a68ec28d52486c083b681d631fef58fbb57d581ecac438eec5bc6.jpg",
+        "width": 576,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "nature-unseen",
@@ -598,9 +989,39 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/77766f609143293388c1b0e7ef3c87000e331033272f6916a0ef47bc7962048a.webp",
+        "poster": null,
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/5616080a760876291d04af85f18027b1e36efe584685285b0f436bf7272d54ca.webp",
+        "poster": null,
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/4b775c2d710869dd6c580b69d6230bc1214b6afaebaa26f314edc70c865cd164.webp",
+        "poster": null,
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/a93136dc26d33497e86d84a996d24ced576d2c49718f6535edb6536897b0d70f.webp",
+        "poster": null,
+        "width": 800,
+        "height": 1200
+      }
+    ]
   },
   {
     "id": "fifteen-round-comparison",
@@ -621,9 +1042,18 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/751480da0f604204e9996b7b1a3ce1e516ef3affd3134b1c6af95fdfb5cd1879.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/seedream-5-5/eff5bc4171178e2dbdc2067998bdce0ea7692a3c5d87a87f88de0eedbe618dde.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
   },
   {
     "id": "blue-hour-fisherman",
@@ -644,8 +1074,17 @@
     "verificationMethod": "Public post response observed in signed-in Chrome; author, model wording and attached media checked.",
     "model": "Seedream 5.5",
     "sourcePlatform": "X",
-    "publicationMode": "source-link-only",
+    "publicationMode": "beatapi-hosted-media",
     "promptStatus": "Available instructions remain at source; not counted as a verified full prompt case.",
-    "mediaRights": "Third-party media remains at source; redistribution rights not established."
+    "mediaRights": "Third-party rights retained; no general reuse license implied.",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/d2b40c15eda58f45ffa604e9ded77c641f62b75f6b67296d1a82a3179c5d1d93.webp",
+        "poster": null,
+        "width": 1200,
+        "height": 675
+      }
+    ]
   }
 ]
