@@ -1,14 +1,44 @@
-<p align="center"><img src="./assets/readme-hero.png" alt="Seedream 5.5 提示词精选" width="100%" /></p>
+<p align="center"><a href="https://beatapi.io/zh"><img src="./assets/readme-hero.png" alt="Seedream 5.5 提示词精选" width="100%" /></a></p>
 
 # Seedream 5.5 提示词精选
 
-由 [BeatAPI](https://beatapi.io) 整理的 Seedream 5.5 作品与提示词。
+由 [BeatAPI](https://beatapi.io/zh) 整理的 Seedream 5.5 作品与提示词。
 
-**[浏览在线画廊](https://beatapi.io/zh/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/zh/seedream-5-5-api)** · [English](README.md) · [参与贡献](CONTRIBUTING.md)
+**[BeatAPI 首页](https://beatapi.io/zh)** · **[浏览在线画廊](https://beatapi.io/zh/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/zh/seedream-5-5-api)** · [English](README.md) · [参与贡献](CONTRIBUTING.md)
 
-**90 个案例 · 28 条完整提示词**
+**92 个案例 · 29 条完整提示词**
 
 **按用途浏览:** [文字排版](#文字排版) · [人物肖像](#人物肖像) · [透明素材](#透明素材) · [摄影](#摄影) · [产品摄影](#产品摄影) · [风景](#风景) · [图片编辑](#图片编辑) · [插画](#插画)
+
+## 最新案例
+
+### 陀飞轮腕表广告
+
+<a href="https://media.beatapi.io/prompt-gallery/seedream-5-5/6c6879284822dc421c6a8bdcfa5c5c1e8141a8449dbf270f17ea732702e3ff48.webp"><img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/6c6879284822dc421c6a8bdcfa5c5c1e8141a8449dbf270f17ea732702e3ff48.webp" alt="陀飞轮腕表广告" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/seedream-5-5/fa190a9bc951ef7bcce2b1653d125659252831fb08a4943516be81b656ac39e2.webp"><img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/fa190a9bc951ef7bcce2b1653d125659252831fb08a4943516be81b656ac39e2.webp" alt="陀飞轮腕表广告" width="340" /></a>
+
+[@marryevan999](https://x.com/marryevan999/status/2120217177890652585)
+
+### 彩虹衍纸舞者
+
+<a href="https://media.beatapi.io/prompt-gallery/seedream-5-5/48cdb017f2219058bc661fa03688e63ce6dfff4051d75ef181393d30e820c112.webp"><img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/48cdb017f2219058bc661fa03688e63ce6dfff4051d75ef181393d30e820c112.webp" alt="彩虹衍纸舞者" width="700" /></a>
+
+<details>
+<summary>提示词</summary>
+
+~~~~text
+3D paper quilling art of a graceful woman dancing in side-profile. She wears an elegant sleeveless v-neck dress made of intricately coiled paper strips in a vivid rainbow gradient—transitioning seamlessly through yellow, orange, red, magenta, deep purple, royal blue, and emerald green.
+
+Her long brown hair flows in the wind behind her as she gracefully holds an open quilled umbrella featuring matching rainbow paper panels overhead. She wears bright red high heels, standing atop quilled paper water ripples reflecting vibrant hues. Surrounding her in mid-air are multiple detailed quilled paper butterflies in shades of bright orange, yellow, pink, and sky blue.
+
+The background is a solid matte dark charcoal grey cardstock, featuring subtle overhead studio directional lighting that casts soft 3D drop shadows underneath the layered paper elements, emphasizing realistic texture and depth. High detail, paper craft sculpture aesthetic, 4k resolution. --ar 2:3
+~~~~
+
+</details>
+
+[@yourPlugAI](https://x.com/yourPlugAI/status/2120176960999403776)
+
 
 ## 浏览案例
 
@@ -1014,3 +1044,13 @@ Seedream 5.5
 ## 来源与许可
 
 每条案例提供原文、创作者、素材和必要的参考图。项目所有者已确认素材使用授权；第三方素材不因此自动获得通用许可。仓库原创文档采用 [MIT 许可](LICENSE)。封面是示意插画，不作为 Seedream 成品。
+
+## 更多案例库
+
+- [Fable 5.2](https://beatapi.io/zh/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/zh/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/zh/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/zh/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/zh/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI 首页](https://beatapi.io/zh)

@@ -16,3 +16,5 @@ Fine detail everywhere: condensation beads on the old glass panes, rivets and pe
 ## Source and use
 
 The creator and original source are linked above. Permission to use the sourced media was confirmed by the project owner; no general license for third-party works is implied.
+
+[Website gallery](https://beatapi.io/seedream-5-5-prompts) · [BeatAPI home](https://beatapi.io)

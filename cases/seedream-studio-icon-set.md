@@ -15,3 +15,5 @@ A set of nine weather icons arranged in a neat 3 by 3 grid: a sun, a cloud with 
 ## Source and use
 
 The creator and original source are linked above. Permission to use the sourced media was confirmed by the project owner; no general license for third-party works is implied.
+
+[Website gallery](https://beatapi.io/seedream-5-5-prompts) · [BeatAPI home](https://beatapi.io)

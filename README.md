@@ -1,14 +1,44 @@
-<p align="center"><img src="./assets/readme-hero.png" alt="Seedream 5.5 Prompt Gallery by BeatAPI" width="100%" /></p>
+<p align="center"><a href="https://beatapi.io"><img src="./assets/readme-hero.png" alt="Seedream 5.5 Prompt Gallery by BeatAPI" width="100%" /></a></p>
 
 # Awesome Seedream 5.5 Prompts
 
 Seedream 5.5 images and prompts, curated by [BeatAPI](https://beatapi.io).
 
-**[Browse the prompt gallery](https://beatapi.io/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/seedream-5-5-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
+**[BeatAPI home](https://beatapi.io)** · **[Browse the prompt gallery](https://beatapi.io/seedream-5-5-prompts)** · **[Seedream 5.5 API](https://beatapi.io/seedream-5-5-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**90 examples · 28 complete prompts**
+**92 examples · 29 complete prompts**
 
 **Browse by use case:** [Typography](#typography) · [Portraits](#portraits) · [Transparent assets](#transparent-assets) · [Photography](#photography) · [Product](#product) · [Landscape](#landscape) · [Editing](#editing) · [Illustration](#illustration) · [Creator showcases and model comparisons](#creator-showcases-and-model-comparisons)
+
+## Latest examples
+
+### Tourbillon watch campaign
+
+<a href="https://media.beatapi.io/prompt-gallery/seedream-5-5/6c6879284822dc421c6a8bdcfa5c5c1e8141a8449dbf270f17ea732702e3ff48.webp"><img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/6c6879284822dc421c6a8bdcfa5c5c1e8141a8449dbf270f17ea732702e3ff48.webp" alt="Tourbillon watch campaign" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/seedream-5-5/fa190a9bc951ef7bcce2b1653d125659252831fb08a4943516be81b656ac39e2.webp"><img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/fa190a9bc951ef7bcce2b1653d125659252831fb08a4943516be81b656ac39e2.webp" alt="Tourbillon watch campaign" width="340" /></a>
+
+[@marryevan999](https://x.com/marryevan999/status/2120217177890652585)
+
+### Rainbow paper-quilling dancer
+
+<a href="https://media.beatapi.io/prompt-gallery/seedream-5-5/48cdb017f2219058bc661fa03688e63ce6dfff4051d75ef181393d30e820c112.webp"><img src="https://media.beatapi.io/prompt-gallery/seedream-5-5/48cdb017f2219058bc661fa03688e63ce6dfff4051d75ef181393d30e820c112.webp" alt="Rainbow paper-quilling dancer" width="700" /></a>
+
+<details>
+<summary>Prompt</summary>
+
+~~~~text
+3D paper quilling art of a graceful woman dancing in side-profile. She wears an elegant sleeveless v-neck dress made of intricately coiled paper strips in a vivid rainbow gradient—transitioning seamlessly through yellow, orange, red, magenta, deep purple, royal blue, and emerald green.
+
+Her long brown hair flows in the wind behind her as she gracefully holds an open quilled umbrella featuring matching rainbow paper panels overhead. She wears bright red high heels, standing atop quilled paper water ripples reflecting vibrant hues. Surrounding her in mid-air are multiple detailed quilled paper butterflies in shades of bright orange, yellow, pink, and sky blue.
+
+The background is a solid matte dark charcoal grey cardstock, featuring subtle overhead studio directional lighting that casts soft 3D drop shadows underneath the layered paper elements, emphasizing realistic texture and depth. High detail, paper craft sculpture aesthetic, 4k resolution. --ar 2:3
+~~~~
+
+</details>
+
+[@yourPlugAI](https://x.com/yourPlugAI/status/2120176960999403776)
+
 
 ## Typography
 
@@ -1013,3 +1043,13 @@ A creator-run comparison across five editors, revising each model's previous res
 Each case preserves the complete prompt published by its source, its corresponding media and any necessary reference inputs. Model attribution follows each creator’s description. Media is preserved as source-published versions or labeled uncropped compressed copies; original generation exports are not independently confirmed.
 
 Source credits and permission notes are on each case page. BeatAPI-authored documentation uses [MIT](LICENSE); third-party material retains its own rights. The cover is illustrative artwork, not a Seedream result.
+
+## More galleries
+
+- [Fable 5.2](https://beatapi.io/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI home](https://beatapi.io)

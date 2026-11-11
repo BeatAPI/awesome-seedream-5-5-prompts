@@ -15,3 +15,5 @@ Overhead photo of a printed noodle shop menu on a dark wooden counter. Title 'KA
 ## Source and use
 
 The creator and original source are linked above. Permission to use the sourced media was confirmed by the project owner; no general license for third-party works is implied.
+
+[Website gallery](https://beatapi.io/seedream-5-5-prompts) · [BeatAPI home](https://beatapi.io)

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "x-2120217177890652585",
+    "slug": "x-2120217177890652585",
+    "model": "seedream-5-5",
+    "title": "Tourbillon watch campaign",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "陀飞轮腕表广告",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "トゥールビヨン腕時計の広告",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/marryevan999/status/2120217177890652585",
+      "author": "@marryevan999",
+      "modelEvidenceUrl": "https://x.com/marryevan999/status/2120217177890652585"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/6c6879284822dc421c6a8bdcfa5c5c1e8141a8449dbf270f17ea732702e3ff48.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWyGSMdaAAA2rxp.png?name=large",
+      "sha256": "6c6879284822dc421c6a8bdcfa5c5c1e8141a8449dbf270f17ea732702e3ff48",
+      "width": 1672,
+      "height": 941,
+      "kind": "image",
+      "alt": "Tourbillon watch campaign"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/marryevan999/status/2120217177890652585",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/fa190a9bc951ef7bcce2b1653d125659252831fb08a4943516be81b656ac39e2.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWyGSaAbQAEx3kE.png?name=large",
+        "sha256": "fa190a9bc951ef7bcce2b1653d125659252831fb08a4943516be81b656ac39e2",
+        "width": 1122,
+        "height": 1402,
+        "kind": "image",
+        "alt": "Tourbillon watch campaign"
+      }
+    ],
+    "models": [
+      "Seedream 5.5"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120176960999403776",
+    "slug": "x-2120176960999403776",
+    "model": "seedream-5-5",
+    "title": "Rainbow paper-quilling dancer",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "彩虹衍纸舞者",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "虹色のクイリングダンサー",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/yourPlugAI/status/2120176960999403776",
+      "author": "@yourPlugAI",
+      "modelEvidenceUrl": "https://x.com/yourPlugAI/status/2120176960999403776",
+      "promptEvidenceUrl": "https://x.com/yourPlugAI/status/2120176960999403776"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/seedream-5-5/48cdb017f2219058bc661fa03688e63ce6dfff4051d75ef181393d30e820c112.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxhqMzWkAA8nFd.jpg?name=large",
+      "sha256": "48cdb017f2219058bc661fa03688e63ce6dfff4051d75ef181393d30e820c112",
+      "width": 1467,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Rainbow paper-quilling dancer"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/yourPlugAI/status/2120176960999403776",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "variant": "Seedream 5.5",
+    "originalPrompt": "3D paper quilling art of a graceful woman dancing in side-profile. She wears an elegant sleeveless v-neck dress made of intricately coiled paper strips in a vivid rainbow gradient—transitioning seamlessly through yellow, orange, red, magenta, deep purple, royal blue, and emerald green. \n\nHer long brown hair flows in the wind behind her as she gracefully holds an open quilled umbrella featuring matching rainbow paper panels overhead. She wears bright red high heels, standing atop quilled paper water ripples reflecting vibrant hues. Surrounding her in mid-air are multiple detailed quilled paper butterflies in shades of bright orange, yellow, pink, and sky blue. \n\nThe background is a solid matte dark charcoal grey cardstock, featuring subtle overhead studio directional lighting that casts soft 3D drop shadows underneath the layered paper elements, emphasizing realistic texture and depth. High detail, paper craft sculpture aesthetic, 4k resolution. --ar 2:3",
+    "referenceRequirement": "none",
+    "settingsNote": "The published prompt corresponds to the umbrella dancer; the second image in the source post uses a different composition."
+  }
+]

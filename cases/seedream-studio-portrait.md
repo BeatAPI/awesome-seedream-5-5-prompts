@@ -16,3 +16,5 @@ Photorealistic, 85mm lens at f/1.8, shallow depth of field.
 ## Source and use
 
 The creator and original source are linked above. Permission to use the sourced media was confirmed by the project owner; no general license for third-party works is implied.
+
+[Website gallery](https://beatapi.io/seedream-5-5-prompts) · [BeatAPI home](https://beatapi.io)

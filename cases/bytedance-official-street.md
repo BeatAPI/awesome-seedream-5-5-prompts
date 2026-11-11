@@ -15,3 +15,5 @@ A vertical 3:4 street photograph of a southern European corner. A lemon-yellow l
 ## Source and use
 
 The creator and original source are linked above. Permission to use the sourced media was confirmed by the project owner; no general license for third-party works is implied.
+
+[Website gallery](https://beatapi.io/seedream-5-5-prompts) · [BeatAPI home](https://beatapi.io)
